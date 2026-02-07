@@ -19,18 +19,18 @@ I use Linux.
 <table>
 	<tr>
 		<td>
-			<img alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KeiAraya&theme=gruvbox" />
+			<img alt="Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KeiAraya&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Stats" />
 		</td>
 		<td>
-			<img alt="Streak" src="https://nirzak-streak-stats.vercel.app/?user=KeiAraya&theme=gruvbox&hide_border=true" />
+			<img alt="Streak" src="https://streak-stats.demolab.com?user=KeiAraya&theme=gruvbox&hide_border=true&background=1D2021" />
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<img alt="Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KeiAraya&theme=gruvbox" />
+			<img alt="Langs" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KeiAraya&theme=gruvbox&hide_border=true&layout=compact&custom_title=Langs" />
 		</td>
 		<td>
-			<img alt="Top Contributed Repo" src="https://github-contributor-stats.vercel.app/api?username=KeiAraya&limit=5&theme=gruvbox&combine_all_yearly_contributions=true" />
+			<img alt="Pinned Repo" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=KeiAraya&repo=15-days-of-building&theme=gruvbox&hide_border=true" />
 		</td>
 	</tr>
 </table>
