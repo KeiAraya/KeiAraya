@@ -10,9 +10,9 @@ I use Linux.
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ## GitHub Stats
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KeiAraya&show_icons=true&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KeiAraya&theme=gruvbox)
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=KeiAraya&theme=gruvbox&hide_border=false)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KeiAraya&theme=gruvbox&hide_border=false&layout=compact)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KeiAraya&theme=gruvbox)
 
 ## Top Contributed Repo
 ![Top Contrib](https://github-contributor-stats.vercel.app/api?username=KeiAraya&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
