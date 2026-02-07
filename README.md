@@ -1,8 +1,13 @@
 # About Me:
 I use Linux.
 
-![Developer Tier](https://img.shields.io/badge/Developer%20Tier-B%20Tier-2E7D32?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+![Developer Tier](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/KeiAraya/KeiAraya/main/tier.json)
 [![Profile Views](https://komarev.com/ghpvc/?username=KeiAraya&style=for-the-badge&color=0E7C7B&label=Profile%20Views)](https://github.com/KeiAraya)
+
+## Tier System
+Score = commits_last_365d*1 + stars*5 + prs_last_365d*3 + issues_last_365d*2 + followers*2
+Tiers: S >= 500, A >= 250, B >= 120, C >= 60, D < 60
+Updated daily by GitHub Actions.
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-1F6FEB?style=flat-square&logo=python&logoColor=white)

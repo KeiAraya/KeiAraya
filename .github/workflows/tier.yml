@@ -1,0 +1,33 @@
+name: Update Developer Tier
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-tier:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Calculate tier
+        run: node scripts/tier.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: KeiAraya
+
+      - name: Commit tier badge
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "tier.json tier-metrics.json"
+          message: "chore: update developer tier"
+          default_author: github_actions

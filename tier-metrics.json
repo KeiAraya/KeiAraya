@@ -1,0 +1,26 @@
+{
+  "updated": "1970-01-01T00:00:00Z",
+  "windowDays": 365,
+  "score": 0,
+  "stats": {
+    "commits": 0,
+    "stars": 0,
+    "prs": 0,
+    "issues": 0,
+    "followers": 0
+  },
+  "weights": {
+    "commits": 1,
+    "stars": 5,
+    "prs": 3,
+    "issues": 2,
+    "followers": 2
+  },
+  "tiers": [
+    { "name": "S Tier", "min": 500, "color": "E53935" },
+    { "name": "A Tier", "min": 250, "color": "FB8C00" },
+    { "name": "B Tier", "min": 120, "color": "2E7D32" },
+    { "name": "C Tier", "min": 60, "color": "1976D2" },
+    { "name": "D Tier", "min": 0, "color": "546E7A" }
+  ]
+}
