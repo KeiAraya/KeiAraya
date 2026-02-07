@@ -22,7 +22,7 @@ I use Linux.
 			<img alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KeiAraya&theme=gruvbox" />
 		</td>
 		<td>
-			<img alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KeiAraya&theme=gruvbox&utcOffset=5" />
+			<img alt="Most Starred" src="https://github-profile-summary-cards.vercel.app/api/cards/most-starred?username=KeiAraya&theme=gruvbox" />
 		</td>
 	</tr>
 	<tr>
