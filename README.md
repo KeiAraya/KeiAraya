@@ -19,7 +19,7 @@ I use Linux.
 <table>
 	<tr>
 		<td>
-			<img alt="Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KeiAraya&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Stats" />
+			<img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=KeiAraya&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Stats&bg_color=1D2021" />
 		</td>
 		<td>
 			<img alt="Streak" src="https://streak-stats.demolab.com?user=KeiAraya&theme=gruvbox&hide_border=true&background=1D2021" />
@@ -27,10 +27,10 @@ I use Linux.
 	</tr>
 	<tr>
 		<td>
-			<img alt="Langs" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KeiAraya&theme=gruvbox&hide_border=true&layout=compact&custom_title=Langs" />
+			<img alt="Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeiAraya&theme=gruvbox&hide_border=true&layout=compact&custom_title=Langs&bg_color=1D2021" />
 		</td>
 		<td>
-			<img alt="Pinned Repo" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=KeiAraya&repo=15-days-of-building&theme=gruvbox&hide_border=true" />
+			<img alt="Pinned Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=KeiAraya&repo=15-days-of-building&theme=gruvbox&hide_border=true&bg_color=1D2021" />
 		</td>
 	</tr>
 </table>
